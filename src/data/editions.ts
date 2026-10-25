@@ -37,6 +37,12 @@ export const portugueseEditions: Record<string, PortugueseEdition> = {
     question: 'O vazio é o mesmo que a profundidade?',
     kind: 'revised',
   },
+  'the-appearance-and-the-function': {
+    title: 'A Aparência e a Função',
+    distinction: 'Inovação Formal ≠ Inovação Funcional',
+    question: 'Uma forma nova é uma ideia nova?',
+    kind: 'revised',
+  },
   'project-memory': {
     title: 'O edifício deveria lembrar-se',
     distinction: 'Arquivo ≠ Memória',
